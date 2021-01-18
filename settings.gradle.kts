@@ -8,6 +8,7 @@ includeStorage("s3")
 includeStorage("http")
 
 includeCommon("amazon-core", "amazon/core")
+includeSystem("amazon", "firehose")
 includeSystem("amazon", "kms")
 includeSystem("amazon", "lambda")
 includeSystem("amazon", "s3")
